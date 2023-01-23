@@ -27,6 +27,8 @@ Yazılıma başlarken yapmanız gereken en akıllıca hareket temelinizi sağlam
 - Basit bir web uygulaması
 - Web uygulamasını bir sunucuya yükleyip erişilebilir hale getirme
 
+Tabiki, bu yolu tamamlamak için bir programlama dili seçmelisiniz. Şimdiye kadar kullandığım dillerin arasından verebileceğim tavsiye PHP, Python, Go veya Ruby'den birini seçmenizdir. Bir zaman sonra yeterince tecrübe edindiğinizde ve kendinize güvendiğinizde daha hedefli bir seçim yapabilirsiniz.
+
 Bu yolu tamamlarken paralel olarak da sürüm kontrol sistemlerini (özellikle Git) başlangıç seviyesinde öğrenmelisiniz.
 
 Bu süreçte pskolojik olarak aklınızda tutmanız gereken iki altın kural;
