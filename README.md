@@ -19,7 +19,7 @@ Bu soru farklı mecralarda sıkça soruluyor. Bu konuda internette hazırlanmı�
 > CTO @SmartupNetwork, Expert Backend Developer, 20+ yıl
 >
 
-Yazılıma başlarken yapmanız gereken en akıllıca hareket temelinizi sağlam atmaktır. Bunun için hemen bir programlama diline ya da türüne (mobil, web, backend etc.) odaklanmaktansa bana göre temel kabul edilebilecek konuları öğrenebileceğiniz bir yol ile ilerlemelisiniz. Benim tavsiyem aşağıdaki gibi bir yok ile ilerlemek en doğrusu;
+Yazılıma başlarken yapmanız gereken en akıllıca hareket temelinizi sağlam atmaktır. Bunun için hemen bir programlama diline ya da türüne (mobil, web, backend etc.) odaklanmaktansa temel kabul edilebilecek konuları öğrenebileceğiniz bir şekildee ilerlemelisiniz. Benim tavsiyem aşağıdaki sıralama ile öğrenerek ilerlemek;
 
 - Input, output, döngüler, kontrol yapıları (if/switch), değişkenler and veri yapıları
 - Fonksiyonlar, sınıflar
@@ -27,15 +27,15 @@ Yazılıma başlarken yapmanız gereken en akıllıca hareket temelinizi sağlam
 - Basit bir web uygulaması
 - Web uygulamasını bir sunucuya yükleyip erişilebilir hale getirme
 
-Tabiki, bu yolu tamamlamak için bir programlama dili seçmelisiniz. Şimdiye kadar kullandığım dillerin arasından verebileceğim tavsiye PHP, Python, Go veya Ruby'den birini seçmenizdir. Bir zaman sonra yeterince tecrübe edindiğinizde ve kendinize güvendiğinizde daha hedefli bir seçim yapabilirsiniz.
+Tabi ki, bu listeyi tamamlamak için bir programlama dili seçmelisiniz. Şimdiye kadar kullandığım dillerin arasından verebileceğim tavsiye PHP, Python veya Go dillerinden birini öğrenebilirsiniz. Bir zaman sonra yeterince kendinize güvendiğinizde daha hedefli bir seçim yapabilirsiniz.
 
-Bu yolu tamamlarken paralel olarak da sürüm kontrol sistemlerini (özellikle Git) başlangıç seviyesinde öğrenmelisiniz.
+Bu yolu tamamlarken paralel olarak da sürüm kontrol sistemlerini (özellikle Git) en azından başlangıç seviyesinde öğrenmelisiniz. Ayrıca döküman okuma yeteneğinizi ve sabrınızı da geliştirmelisiniz.
 
 Bu süreçte pskolojik olarak aklınızda tutmanız gereken iki altın kural;
 
-- Öğrenecek çok şey var ve gelecekte de olacak.
+- Öğrenecek çok şey var ve gelecekte de hep olacak.
 - Sosyal medyada gördüğün ve çok iyi olduğunu düşündüğün kişilerin de bilmediği çok şey var.
 
-## Katkı
+## Nasıl Katkıda Bulunabilirim?
 
-Bu döküman her türlü katkıya açıktır. Özellikle kendi hikayenizi ve tavsiyenizi eklemeniz çok değerlidir.
+Bu döküman her türlü katkıya açıktır. Özellikle kendi hikayenizi ve tavsiyenizi eklemeniz çok değerlidir. Yeni başlamış biri ya da uzman seviyesinde biri de olsanız başlamak isteyenlere tavsiyeniz yardımcı olacaktır. Adınızın başlık olduğu bir bölümü ekleyip PR açabilirsiniz.
