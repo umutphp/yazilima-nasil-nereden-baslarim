@@ -8,7 +8,7 @@
 
 - [Tavsiyeler](#tavsiyeler)
   - [Umut Işık](#umut-i%C5%9F%C4%B1k)
-- [Katkı](#katk%C4%B1)
+- [Nasıl Katkıda Bulunabilirim?](#nas%C4%B1l-katk%C4%B1da-bulunabilirim)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
