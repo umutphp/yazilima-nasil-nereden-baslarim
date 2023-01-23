@@ -2,6 +2,7 @@
 
 "Yazılıma nasıl/nereden/neyle başlarım" sorusu farklı mecralarda sıkça soruluyor. Bu konuda internette hazırlanmış bir çok yazıya veya vidoya da ulaşabilirsiniz. Bu dökümanın amacı farklı profillerden insanlardan bireysel tavsiye toplamak. Soruyu soranlar genelde hap gibi kısa ve net cevaplar bekliyorlar. Buna ulaşmak zor ama denemeye değer.
 
+---
 **İçindekiler**
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -11,6 +12,7 @@
 - [Nasıl Katkıda Bulunabilirim?](#nas%C4%B1l-katk%C4%B1da-bulunabilirim)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+---
 
 ## Tavsiyeler
 
