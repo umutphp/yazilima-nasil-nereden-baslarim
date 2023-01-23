@@ -18,7 +18,7 @@
 
 ### Umut Işık
 
-> CTO @SmartupNetwork, Expert Backend Developer, 20+ yıl
+> CTO @SmartupNetwork, Expert Backend Developer, 20+ yıl, [umutphp](https://github.com/umutphp)
 >
 
 Yazılıma başlarken yapmanız gereken en akıllıca hareket temelinizi sağlam atmaktır. Bunun için hemen bir programlama diline ya da türüne (mobil, web, backend etc.) odaklanmaktansa temel kabul edilebilecek konuları öğrenebileceğiniz bir şekildee ilerlemelisiniz. Benim tavsiyem aşağıdaki sıralama ile öğrenerek ilerlemek;
