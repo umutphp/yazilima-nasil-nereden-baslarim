@@ -2,6 +2,15 @@
 
 Bu soru farklı mecralarda sıkça soruluyor. Bu konuda internette hazırlanmış bir çok yazıya veya vidoyaya ulaşabilirsiniz. Bu dökümanın amacı farklı profillerden insanlardan bireysel tavsiye toplamak. Soruyu soranlar genelde hap gibi kısa ve net cevaplar bekliyorlar. Buna ulaşmak zor ama denemeye değer.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Tavsiyeler](#tavsiyeler)
+  - [Umut Işık](#umut-i%C5%9F%C4%B1k)
+- [Katkı](#katk%C4%B1)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Tavsiyeler
 
 ### Umut Işık
