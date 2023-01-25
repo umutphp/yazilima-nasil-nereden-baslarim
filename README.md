@@ -23,7 +23,7 @@
 
 Yazılıma başlarken yapmanız gereken en akıllıca hareket temelinizi sağlam atmaktır. Bunun için hemen bir programlama diline ya da türüne (mobil, web, backend etc.) odaklanmaktansa temel kabul edilebilecek konuları öğrenebileceğiniz bir şekilde ilerlemelisiniz. Benim tavsiyem aşağıdaki sıralama ile öğrenerek ilerlemek;
 
-- Input, output, döngüler, kontrol yapıları (if/switch), değişkenler and veri yapıları
+- Input, output, döngüler, kontrol yapıları (if/switch), değişkenler ve veri yapıları
 - Fonksiyonlar, sınıflar
 - Basit bir komut satırı uygulaması
 - Basit bir web uygulaması
